@@ -1,3 +1,6 @@
+[![tests](https://img.shields.io/github/actions/workflow/status/CryptoAndy8/pwgen/tests.yml?branch=main)](../../actions)
+[![license](https://img.shields.io/github/license/CryptoAndy8/pwgen)](LICENSE)
+
 # pwgen
 Простий генератор безпечних паролів на Python. Використовує `secrets`, гарантує хоча б по одному символу з вибраних наборів.
 
